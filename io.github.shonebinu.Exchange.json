@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/shonebinu/Exchange",
-          "tag": "v0.1.0",
-          "commit": "a212594c6b0d5c1b7b4635956c2d369b6aec2c5a"
+          "tag": "v0.2.0",
+          "commit": "e84c48c314fb19bcc3f73d82191eaa5c02bba626"
         }
       ]
     }
