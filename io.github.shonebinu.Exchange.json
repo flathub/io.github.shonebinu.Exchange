@@ -1,7 +1,7 @@
 {
   "id": "io.github.shonebinu.Exchange",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "49",
+  "runtime-version": "50",
   "sdk": "org.gnome.Sdk",
   "command": "exchange",
   "finish-args": [
@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/shonebinu/Exchange",
-          "tag": "v0.2.0",
-          "commit": "e84c48c314fb19bcc3f73d82191eaa5c02bba626"
+          "tag": "v0.2.1",
+          "commit": "6e595ae2a1df439316e01d308118accdbba4f9fc"
         }
       ]
     }
